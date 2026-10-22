@@ -2,7 +2,13 @@
 
 # MiitTV
 
-Replacement TV app for Emby — تطبيق Emby بديل
+A video player for your Emby server, on Android TV and Android phones and tablets.
+
+مشغّل فيديو لسيرفر Emby حقك، على تلفزيونات أندرويد والجوالات والتابلت.
+
+You need your own Emby server. MiitTV plays what's on it.
+
+تحتاج سيرفر Emby خاص فيك، والتطبيق يشغّل اللي عليه.
 
 ## Download / التحميل
 
@@ -18,12 +24,24 @@ All versions: [Releases](https://github.com/Miitcryo/MiitTV-releases/releases)
 3. Allow Downloader to install apps when asked, then install MiitTV.
 4. Sign in with your Emby server address, username and password.
 
+## Install on a phone or tablet
+
+1. Open the download link above in your browser.
+2. Open the downloaded file and allow your browser to install apps when asked.
+3. Sign in with your Emby server address, username and password.
+
 ## التثبيت على التلفزيون
 
 1. نزّل تطبيق **Downloader** من متجر Play على التلفزيون.
 2. افتحه واكتب الرابط اللي فوق.
 3. اسمح له بتثبيت التطبيقات لما يطلب، وثبّت MiitTV.
 4. سجّل دخولك بعنوان سيرفر Emby واسم المستخدم والباسورد.
+
+## التثبيت على الجوال أو التابلت
+
+1. افتح رابط التحميل اللي فوق من المتصفح.
+2. افتح الملف بعد التحميل، واسمح للمتصفح بتثبيت التطبيقات لما يطلب.
+3. سجّل دخولك بعنوان سيرفر Emby واسم المستخدم والباسورد.
 
 ## Updates / التحديثات
 
