@@ -2,7 +2,7 @@
 
 # MiitTV
 
-An Android TV app for Emby — تطبيق Emby للتلفزيون
+Replacement TV app for Emby — تطبيق Emby بديل
 
 ## Download / التحميل
 
