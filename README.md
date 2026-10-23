@@ -10,13 +10,13 @@
 https://miittv.vercel.app
 ```
 
-Works in any browser on PC or phone, nothing to install. You need your own Emby server with an **https://** address (browsers block plain http:// addresses from this site).
+Works in any browser on PC or phone, nothing to install. You need your own Emby server with.
 
-تشتغل من أي متصفح على الكمبيوتر أو الجوال بدون تثبيت. تحتاج سيرفر Emby خاص فيك بعنوان يبدأ بـ **https://** (المتصفح يمنع عناوين http:// العادية من هالموقع).
+تشتغل من أي متصفح على الكمبيوتر أو الجوال بدون تثبيت. تحتاج سيرفر Emby خاص فيك.
 
-A video player for your Emby server, on Android TV and Android phones and tablets.
+A video player for Emby server, on Android TV and Android phones and tablets.
 
-مشغّل فيديو لسيرفر Emby حقك، على تلفزيونات أندرويد والجوالات والتابلت.
+مشغّل فيديو لسيرفر Emby، على تلفزيونات أندرويد والجوالات والتابلت.
 
 You need your own Emby server. MiitTV plays what's on it.
 
